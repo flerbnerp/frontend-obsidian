@@ -141,6 +141,9 @@ dist
 **/*.DS_Store*/**
 .DS_Store
 
+# Ignore package-lock.json
+package-lock.json
+
 
 # Obsidian specific ignores
 
