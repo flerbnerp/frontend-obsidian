@@ -138,7 +138,8 @@ dist
 .pnp.*
 
 # Exclude macOS Finder (System Explorer) View States
-**/*.DS_Store*/**
+.DS_Store
+._.DS_Store
 .DS_Store
 
 # Ignore package-lock.json
